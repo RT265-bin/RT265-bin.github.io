@@ -3,4 +3,4 @@ title: tex
 date: 2025-09-21 03:24:34
 tags:
 ---
-$\int_{-\infty}^{\infty}$
+$\int_{-\infty}^{\infty}{\frac{\sin x}{x}}$=${\pi}$
